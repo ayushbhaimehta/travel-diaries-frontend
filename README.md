@@ -44,6 +44,8 @@ Download the repo and then follow the installation methods given below.
 ###### Step 1 - Cd over to the folder
 ###### Step 2 - npm i
 ###### Step 3 - npm start
+- In order to connect it to backend follow the steps given in travel-diary-backend repo.
+
 
 
 
