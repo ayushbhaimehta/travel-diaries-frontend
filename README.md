@@ -1,4 +1,4 @@
-![Project Image](https://ibb.co/0jkDMYT.jpg)
+![https://ibb.co/0jkDMYT](https://ibb.co/0jkDMYT.jpg)
 
 > This is a ReadMe template to help save you time and effort.
 
