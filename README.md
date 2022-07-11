@@ -1,29 +1,35 @@
 
+## livesite https://traveldiary.vercel.app/
 ![Project Image](https://user-images.githubusercontent.com/77238801/178369199-5fecb01f-fc38-40f8-b29c-0e37512f1aba.png)
 
-> This is a ReadMe template to help save you time and effort.
+> This is a web app which allows its users to share their travel experiences and adventures.
 
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
+- [Live Site](#livesite)
 - [Description](#description)
 - [How To Use](#how-to-use)
-- [References](#references)
-- [License](#license)
-- [Author Info](#author-info)
+
 
 ---
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+- This is a web app in which users can post their adventures or their stories that they wanna share with others.
+- Users can like and comment on different post.
+- In order to like comment or post a story they need to login.
+- User can login wither by Google or manually by registering.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- React
+- ExpressJS
+- MongoDB
+- Redux
+- Material-UI
+- JWT
 
 [Back To The Top](#read-me-template)
 
@@ -31,55 +37,17 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 ## How To Use
 
+Download the repo and then follow the installation methods given below.
+
 #### Installation
 
+###### Step 1 - Cd over to the folder
+###### Step 2 - npm i
+###### Step 3 - npm start
 
 
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
 
 ---
 
-## References
-[Back To The Top](#read-me-template)
-
----
-
-## License
-
-MIT License
-
-Copyright (c) [2017] [James Q Quick]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-[Back To The Top](#read-me-template)
-
----
-
-## Author Info
-
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
 
 [Back To The Top](#read-me-template)
