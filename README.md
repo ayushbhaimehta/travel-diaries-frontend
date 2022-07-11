@@ -1,4 +1,4 @@
-![Project Image](https://postimg.cc/N27S4jXJ)
+![Project Image](https://ibb.co/0jkDMYT.jpg)
 
 > This is a ReadMe template to help save you time and effort.
 
